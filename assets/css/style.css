@@ -420,6 +420,21 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+.skill-name{
+  text-align: center;
+  color: #1f5297;
+  text-transform: uppercase;
+font-weight: bold;
+}
+.skills-icon1 {
+  font-size: 2rem;
+  color: #f37a08;
+}
+.skills-icon2 {
+  font-size: 2rem;
+  color: #2ec7ee;
+}
+
 .skills .progress {
   height: 60px;
   display: block;
